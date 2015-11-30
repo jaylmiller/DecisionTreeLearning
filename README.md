@@ -1,0 +1,1 @@
+Homework assignment for CS335 Artificial Intelligence taught by Ben Mitchell in Spring 2015. Algorithms for training decision trees using information gain and gain ratio are implemented in Java.
